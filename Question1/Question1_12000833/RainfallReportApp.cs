@@ -9,7 +9,7 @@ namespace Question1_12000833
     {
         static void Main(string[] args)
         {
-            //Mogamat Tariq Patel 12000833 PROG6211 assignment1 question1
+            //Mogamat Tariq Patel
             // initialising main variables and arrays
             int numberOfTowns;
             String[] getTowns;
