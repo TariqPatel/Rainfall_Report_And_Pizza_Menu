@@ -7,7 +7,7 @@ namespace Question2_12000833
 {
     class Pizza
     {
-        //Mogamat Tariq Patel 12000833 PROG6211 assignment1 question2
+        //Mogamat Tariq Patel 
         //initializing instance variables
         private string typeOfPizza;
         private int numbOfPizzasOrdered;
