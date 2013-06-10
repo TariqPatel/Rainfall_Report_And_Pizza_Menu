@@ -9,7 +9,7 @@ namespace Question2_12000833
     {
         static void Main(string[] args)
         {
-            //Mogamat Tariq Patel 12000833 PROG6211 assignment1 question2
+            //Mogamat Tariq Patel
             //initilising main variables and arrays
             string pizzaTypes;
             int pizzaNumbs;
